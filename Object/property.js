@@ -25,3 +25,4 @@ console.log(person['age'])
 // or
 const boyos = person['age'];
 console.log(boyos)
+
